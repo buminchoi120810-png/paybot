@@ -1,0 +1,11 @@
+{
+  "name": "purchase-bot",
+  "version": "1.0.0",
+  "main": "sendPurchaseEmbed.js",
+  "scripts": {
+    "start": "node sendPurchaseEmbed.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
